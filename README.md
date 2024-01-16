@@ -36,6 +36,7 @@ cd gallery-draggable
 ## Gif
 
 ![Gallery-Draggable](./img/Gallery-Draggable.gif)
+![gallery-draggable_1](./img/gallery-draggable_1.jpg)
 
 ## Contributing
 
