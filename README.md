@@ -1,5 +1,10 @@
 # Draggable Gallery Project
 
+![Gallery](https://img.shields.io/badge/Gallery-Draggable_Gallery-brightgreen)
+![Self Development](https://img.shields.io/badge/Project-Self_Development-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+[![Working on](https://img.shields.io/badge/Working_on-Chrome-informational?logo=google-chrome&logoColor=white)](https://head0223.github.io/gallery-draggable/)
+
 This repository contains the source code for the Draggable Gallery website, providing an interactive and visually engaging user experience.
 
 ## Table of Contents
